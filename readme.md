@@ -22,7 +22,7 @@ The **Advanced BMI Calculator** is a web application built using **Streamlit** a
 ![BMI Calculator Screenshot 2](image/screenshot2.png)
 
 ## 🌐 Live Demo
-[🔗 View the live project](#)
+[🔗 View the live project](https://advanced-bmi-calculator.streamlit.app/)
 
 ## 📥 Installation & Usage
 1. **Clone the repository:**
